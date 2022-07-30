@@ -9,5 +9,3 @@ Security testing on device with privilege escalation (e.g. ‘jailbreaking’ - 
 The purpose of utilising this exploit is to uncover the true nature of data stored and processed on the device. Additional code can be inserted into the running application designed to interfere with the program’s usual control of processing.
 
 Reviewing source code to further understand exploitable vulnerabilities – whilst the source code should be kept secure and typically attackers will not have access, providing access to the full source code provides URM with the ability to review the code for potential vulnerabilities and look to exploit these within the application.
-
-Typically, this is performed during testing of higher risk applications.
